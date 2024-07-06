@@ -41,3 +41,5 @@ console.log(buyItem(hero1, shop1)); // { items: [ 'sword', 'potion', 'armor' ], 
 console.log(buyItem(hero2, shop2)); // { items: [ 'sword', 'potion' ], gold: 50 }
 
 export default buyItem;
+//รหัส นศ.: 660612141
+//ชื่อ-สกุล : ชยณัฐ หงษ์หนึ่ง
